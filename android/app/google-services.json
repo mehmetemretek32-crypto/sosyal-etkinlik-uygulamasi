@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "570235102367",
+    "project_id": "dorduncu-13f27",
+    "storage_bucket": "dorduncu-13f27.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570235102367:android:2a32900b3040021301eeaa",
+        "android_client_info": {
+          "package_name": "com.cumhuriyet.dorduncu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1aPPgDKebAZ_AGwy4LsC8ZwRdsTrzegM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570235102367:android:52c4013fcd77ba6d01eeaa",
+        "android_client_info": {
+          "package_name": "com.example.dorduncu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1aPPgDKebAZ_AGwy4LsC8ZwRdsTrzegM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
